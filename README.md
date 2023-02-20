@@ -1,3 +1,3 @@
-# CVAE
+# Conditional VAE
 
-Conditional variational autoencoder implemented in PyTorch.
+A minimal conditional variational autoencoder implemented in PyTorch.
